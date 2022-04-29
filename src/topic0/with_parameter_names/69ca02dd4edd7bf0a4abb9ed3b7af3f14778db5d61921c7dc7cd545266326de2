@@ -1,0 +1,1 @@
+Transfer(address recipient,uint256 amount);Transfer(address indexed from,uint256 value);Transfer(address indexed _to,uint256 indexed _value)

@@ -1,0 +1,1 @@
+Exit(address indexed user,uint256 stakedTokens,uint256 reward)

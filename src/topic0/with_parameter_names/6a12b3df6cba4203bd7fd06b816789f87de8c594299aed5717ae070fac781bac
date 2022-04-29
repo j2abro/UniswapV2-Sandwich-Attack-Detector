@@ -1,0 +1,1 @@
+BlacklistUpdated(address indexed user,bool value);BlacklistUpdated(address user,bool value)
